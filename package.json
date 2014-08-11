@@ -1,0 +1,20 @@
+{
+    "title": "Lion",
+    "name": "lion",
+    "description": "Lion Theme for Brackets. Dark and minimal. A Brackets original.",
+    "version": "1.0.0",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/Lion",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Lion.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "lion.css",
+        "dark": true
+    }
+}
